@@ -1,4 +1,5 @@
-# food-ordering
+# Online food-ordering System
+
 Online Food ordering system is a process in which one can order various foods and beverages from some local restaurant and hotels through the use of internet, just by sitting at home or any place. And the order is delivered to the told location.
 
 The Online Food Order System In PHP is a simple project developed using PHP, JavaScript, and CSS. The project connects different restaurants with customers. The project contains an admin(manager) and the user side. All the management like editing site contents, updating food items, adding restaurants, and checking order status can be managed from the admin side. There can be many managers on the site!!
